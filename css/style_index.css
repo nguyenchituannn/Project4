@@ -1,0 +1,15 @@
+*{box-sizing: border-box;}
+[class*="col-"]{ float: left; padding: 0% 3%;}
+
+body {background-color: rgb(235, 237, 238);
+    width: auto; max-width: 1200px; margin: 2% 4%; padding: auto;
+}
+@import url('https://fonts.googleapis.com/css2?family=Oi&display=swap');
+nav a{font-weight: bold; font-family: font-family: 'Oi', cursive; }
+nav{position:absolute; width: 100%; max-width: 2100px;border-radius: 10px 10px 0px 0px;}
+
+.map{position:inline; text-align: center;}
+
+img{
+    width: 100%;
+}
